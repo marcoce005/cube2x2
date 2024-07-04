@@ -1,0 +1,10 @@
+Sequenza delle facce [a cubo risolto]:
+
+ - 0 --> bianco
+ - 1 --> rosso
+ - 2 --> giallo
+ - 3 --> arancione
+ - 4 --> verde
+ - 5 --> blue
+
+Visione frontale della faccia bianca [0] con logo in basso a sinistra. 
